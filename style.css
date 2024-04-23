@@ -26,8 +26,8 @@ html, body {
 }
 
 main{
-    margin-left: 33vw;
-    margin-right: 33vw;
+    margin-left: 38vw;
+    margin-right: 38vw;
 }
 
 header {
@@ -99,15 +99,15 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.281);
     background-size: cover;
     background-attachment: fixed;
-    margin-left: -33vw;
-    margin-right: -33vw;
+    margin-left: -38vw;
+    margin-right: -38vw;
     
 }
 
 section.imagem > p {
     display: inline-block;
     padding: 8px;
-    margin-left: 33vw;
+    margin-left: 38vw;
     background-color: rgba(0, 0, 0, 0.507);
     text-shadow: 1px 1px 0px black;
     
